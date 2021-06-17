@@ -8,3 +8,4 @@ public class Principal {
     System.out.println(prod.getCodigo() + "\t" + prod.getNome() + "\t" + prod.getPreco());
   }
 }
+
